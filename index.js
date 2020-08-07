@@ -1,4 +1,4 @@
-
+alert("If you are using it on mobile phone then for better experience turn on landscape mode nd have fun, 🧏‍ takecare bbye :)😋");
 for (var i = 0; i < document.querySelectorAll(".drum").length; i++)
   document.querySelectorAll(".drum")[i].addEventListener("click", function() {
     var buttonInnerHTML = this.innerHTML;
