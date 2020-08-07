@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #283149;
+ background-color: #97e5ef;
 }
 
 h1 {
@@ -12,11 +12,7 @@ h1 {
 }
 
 footer {
-  color: #DBEDF3;
-  font-family: sans-serif;
-}
-a{
-  color: #DBEDF3;
+  color: black;
   font-family: sans-serif;
 }
 .w {
